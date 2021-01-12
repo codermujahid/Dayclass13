@@ -1,0 +1,11 @@
+ 
+.heder-part {
+    background-color:  #34495e;
+}
+.section-1{
+    background: url(./milky-way-2695569_960_720.png);
+    background-size: cover;
+}
+.footer{
+    background-color: rgba(34, 126, 80, 0.945);
+}
